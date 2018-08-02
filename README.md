@@ -6,7 +6,9 @@
       Heres what im learning:
     <br>
         The "< html >" tag tells the browser "hey contained in here is a bunch of HTML code."
+    <br>
         The "< head >" tag we don't really use just yet, but it will contain our references to outside bits of code such as CSS or Javascript.
+    <br>
         The "< body >" tag tells the browser "contained in here is the stuff I actually want you to show the user."
     <br>
   <p>
