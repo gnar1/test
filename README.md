@@ -25,6 +25,6 @@
 <br>
   <a href=https://www.hulu.com/>Hulu</a>
   <a href=https://www.hulu.com/>
-    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hulu.com%2Fpress%2Fwp-content%2Fuploads%2F2017%2F05%2Fhulu-interactive-rgb-800x600.jpg&imgrefurl=https%3A%2F%2Fwww.hulu.com%2Fpress%2Fbrand-assets%2F&docid=sEFA2s1yElQuvM&tbnid=jR7D74MyF-nbKM%3A&vet=10ahUKEwjkxrmuu8_cAhWkdt8KHYcfATMQMwh4KAAwAA..i&w=800&h=600&bih=703&biw=1280&q=hulu%20logo&ved=0ahUKEwjkxrmuu8_cAhWkdt8KHYcfATMQMwh4KAAwAA&iact=mrc&uact=8"
+    <img src="https://www.hulu.com/press/wp-content/themes/hulu/images/favicon/apple-icon-144x144.png"
     alt="alternate text">
     </a>
