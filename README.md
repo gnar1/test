@@ -24,6 +24,7 @@
   Now we create links
 <br>
   <a href=https://www.hulu.com/>Hulu</a>
+  <br>
   <a href=https://www.hulu.com/>
     <img src="https://www.hulu.com/press/wp-content/themes/hulu/images/favicon/apple-icon-144x144.png"
     alt="alternate text">
