@@ -29,3 +29,10 @@
     <img src="https://www.hulu.com/press/wp-content/themes/hulu/images/favicon/apple-icon-144x144.png"
     alt="alternate text">
     </a>
+  <br>
+    <a href="mailto:ranntun@gmail.com">This is my email</a>
+  <br>
+  <a href="tel:551-555-5555">Here is a cell</a>
+  <br>
+  
+    
